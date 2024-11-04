@@ -1,0 +1,14 @@
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.AssemblyInfoInputs.cache
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.AssemblyInfo.cs
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\DocGenerator.exe
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\DocGenerator.deps.json
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\DocGenerator.runtimeconfig.json
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\DocGenerator.dll
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\DocGenerator.pdb
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.dll
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\refint\DocGenerator.dll
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.pdb
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.genruntimeconfig.cache
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\ref\DocGenerator.dll
