@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7470b749b256eedd0644e4ecf9aad0da1e07f66c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

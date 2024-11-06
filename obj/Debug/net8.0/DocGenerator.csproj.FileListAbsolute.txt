@@ -12,3 +12,4 @@ C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\refint\DocGene
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.pdb
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.genruntimeconfig.cache
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\ref\DocGenerator.dll
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.sourcelink.json
