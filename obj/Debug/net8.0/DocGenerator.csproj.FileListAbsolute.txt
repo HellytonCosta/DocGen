@@ -13,3 +13,6 @@ C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.p
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.genruntimeconfig.cache
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\ref\DocGenerator.dll
 C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.sourcelink.json
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGenerator.csproj.AssemblyReference.cache
+C:\Users\hcosta\Documents\Workspace\DocGenerator\bin\Debug\net8.0\Markdig.dll
+C:\Users\hcosta\Documents\Workspace\DocGenerator\obj\Debug\net8.0\DocGener.C0F4CA53.Up2Date

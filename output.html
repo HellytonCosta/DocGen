@@ -1,0 +1,70 @@
+<h1>WAVit Daily Reporting</h1>
+<h2>Introduction</h2>
+<p>This is a newer version of the old WAVit Reporting, made in a ASP.NET MVC application. The purpose of this page is allowing the WAVit users to track their transactions along the time. For this new version, a page was added, called &quot;Analytics&quot;, making possible for the user to see some data about some specif period of time.</p>
+<h2>NuGet Packages</h2>
+<p>|Package|Status|
+|-------|------|
+|Azure.Identity|<a href="https://www.nuget.org/packages/azure.identity">Version 1.11.4</a>|
+|Azure.Security.KeyVaults.Secrets|<a href="https://www.nuget.org/packages/Azure.Security.KeyVault.Secrets/">Version 4.6.0</a>|
+|Chart.js|<a href="https://www.nuget.org/packages/Chart.js">Version 3.7.1</a>|
+|Microsoft.AspNetCore.Identity.EntityFrameworkCore|<a href="https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/9.0.0-rc.2.24474.3">Version 8.0.6</a>|
+|Microsoft.Data.SqlClient|<a href="https://www.nuget.org/packages/Microsoft.Data.SqlClient/6.0.0-preview2.24304.8">Version 5.2.1</a>|
+|Microsoft.EntityFrameworkCore|<a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/9.0.0-rc.2.24474.1">Version 8.0.6</a>|
+|Microsoft.EntityFrameworkCore.SqlServer|<a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/9.0.0-rc.2.24474.1">Version 8.0.6</a>|
+|Microsoft.EntityFrameworkCore.Tools|<a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/9.0.0-rc.2.24474.1">Version 8.0.6</a>|
+|Newtonsoft.Json|<a href="https://www.nuget.org/packages/Newtonsoft.Json">Version 13.0.3</a>|
+|NLog|<a href="https://www.nuget.org/packages/NLog">Version 5.3.2</a>|
+|NumSharp|<a href="https://www.nuget.org/packages/NumSharp">Version 0.30.0</a>|
+|OfficeOpenXml.Extension.AspNetCore|<a href="https://www.nuget.org/packages/OfficeOpenXml.Extension.AspNetCore">Version 1.0.0</a>|
+|Uno.UI|<a href="https://www.nuget.org/packages/Uno.UI/5.6.0-dev.392">Version 5.2.161</a>|</p>
+<h2>Getting Started</h2>
+<p>The project is built on the .NET 8.0 version, using the MVC architecture</p>
+<h2>Project structure (MVC App)</h2>
+<p>Project/ </br>
+├── /Common/ </br>
+├── /Controllers/ </br>
+├── /Data/ </br>
+├── /Models/ </br>
+├── /Views/ </br>
+├── /wwwroot/ </br>
+├── appsettings.json </br>
+└── README.md </br></p>
+<h3>Explanation of the contents</h3>
+<ul>
+<li><strong>Common</strong> - Pull the secrets from the Azure using keyvaults.</li>
+<li><strong>Controllers</strong> - Handle the behavior, actions and data will be sent and pulled from the views (pages).</li>
+<li><strong>Data</strong> - Contains the methods to pull data from DB.</li>
+<li><strong>Models</strong> - The models what are going to fit on the database request results.</li>
+<li><strong>Views</strong> - All the pages of the project, starting from the main page &quot;/Shared/_Layout.cshtml&quot;</li>
+<li><strong>wwwroot</strong> - The public contents, such as images, js and css files</li>
+</ul>
+<h2>Frameworks</h2>
+<ol>
+<li>ASP.NET Core APP</li>
+<li>.NET Core APP</li>
+</ol>
+<h2>Build and Test Locally</h2>
+<p>To run the project, make sure you are following the steps below:</p>
+<h3><strong>Requirements</strong></h3>
+<ul>
+<li>AZURE CLI</li>
+<li>.NET 8.0 version</li>
+<li>Must be logged in your Azure account on Visual Studio or Visual Studio Code</li>
+</ul>
+<h3>Running the project</h3>
+<ul>
+<li><p>On Visual Studio (2022 Version recommended), after you make sure you have the requirements above, build the project and run it using HTTPS method.</p>
+</li>
+<li><p>On Visual Studio Code, by the terminal, it's highly recommended to have installed some Solution explorer. But in case you may haven't, just follow the steps to run.</p>
+<ol>
+<li>On the terminal, navigate to the folder where the file &quot;Program.cs&quot; is.</li>
+<li>A build is highly recommended to check if everything is working normally. Use this command to build the project.</li>
+</ol>
+</li>
+</ul>
+<pre><code>dotnet build
+</code></pre>
+<p>If there's no errors after the building, run the project using this command:</p>
+<pre><code>dotnet watch run
+</code></pre>
+<h2>License</h2>

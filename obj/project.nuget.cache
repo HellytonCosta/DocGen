@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iFpmkly+PYk=",
+  "dgSpecHash": "LH4JJ+rl8P0=",
   "success": true,
   "projectFilePath": "C:\\Users\\hcosta\\Documents\\Workspace\\DocGenerator\\DocGenerator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hcosta\\.nuget\\packages\\markdig\\0.38.0\\markdig.0.38.0.nupkg.sha512"
+  ],
   "logs": []
 }
