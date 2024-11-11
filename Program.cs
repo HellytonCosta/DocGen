@@ -1,14 +1,13 @@
-﻿using System.Dynamic;
-using System.Xml.Linq;
-using DocGenerator.src;
+﻿using System.Xml.Linq;
 using Markdig;
 class Program
 {
     static void Main()
     {
+        Console.WriteLine("Starting the generation...");
+        // STARTING THE PROGRAM
         string inputFilePath = "./README.md";
         string outputFilePath = "output.html";
-        Console.WriteLine("Starting the generation...");
         try
         {
             // Read the Markdown file
